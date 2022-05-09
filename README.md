@@ -6,7 +6,7 @@ The project was created using Python in Jupyter Notebook.
 
 ### Tasks in the project: ###
 
-1. Create the graph of the 17th derivative of the function $ f(x):=(x^2 + x)\exp(x) $ on the $ [- 1, 1] $ interval.
+1. Create the graph of the 17th derivative of the function $f(x):=(x^2 + x)\exp(x)$ on the $ [- 1, 1] $ interval.
 
 2. Make a graph of solutions to equations:
 
@@ -18,4 +18,4 @@ c) $ \dot {x} = \frac {\frac {t}{20} + x}{x-t} $;
 
 passing through the point (1, 2) on the range $ t ∈ [0.5, 2.5] $.
 
-* Author: Marta Solarz *
+*Author: Marta Solarz*
