@@ -18,4 +18,4 @@ c) $\dot{x}=\frac{\frac{t}{20}+x}{x-t}$;
 
 passing through the point $(1,2)$ on the range $t\in[0.5, 2.5]$.
 
-*Author: Marta Solarz*
+**Author: Marta Solarz**
