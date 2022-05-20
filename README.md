@@ -1,4 +1,4 @@
-# Project 1
+# Project 1 - ordinary differential equations
 ## A project for laboratory classes in ordinary differential equations. ##
 
 The first part of the final project in laboratories on ordinary differential equations. 
