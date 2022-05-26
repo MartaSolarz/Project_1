@@ -1,5 +1,5 @@
 # Project 1 - ordinary differential equations
-## A project for laboratory classes in ordinary differential equations. ##
+## A project for laboratory classes in ordinary differential equations - the basics. ##
 
 The first part of the final project in laboratories on ordinary differential equations. 
 The project was created using Python in Jupyter Notebook.
