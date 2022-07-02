@@ -1,10 +1,10 @@
-# Project 1 - ordinary differential equations
-## A project for laboratory classes in ordinary differential equations - the basics. ##
+# Project 1 - ordinary differential equations #
+### *A project for laboratory classes in ordinary differential equations - the basics.* ###
 
 The first part of the final project in laboratories on ordinary differential equations. 
 The project was created using Python in Jupyter Notebook.
 
-### Tasks in the project: ###
+### Tasks descriptions ###
 
 1. Create the graph of the 17th derivative of the function $f(x):=(x^2 + x)\exp(x)$ on the $[-1,1]$ interval.
 
@@ -18,4 +18,10 @@ c) $\dot{x}=\frac{\frac{t}{20}+x}{x-t}$;
 
 passing through the point $(1,2)$ on the range $t\in[0.5, 2.5]$.
 
-**Author: Marta Solarz**
+### Python modules used ###
+
+* matplotlib.pyplot
+* numpy
+* sympy
+
+*Author: Marta Solarz*
