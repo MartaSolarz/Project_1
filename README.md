@@ -20,8 +20,8 @@ passing through the point $(1,2)$ on the range $t\in[0.5, 2.5]$.
 
 ### Python modules used ###
 
-* matplotlib.pyplot
-* numpy
-* sympy
+* ```matplotlib.pyplot```
+* ```numpy```
+* ```sympy```
 
 *Author: Marta Solarz*
